@@ -19,13 +19,11 @@ export function AboutSection() {
               Direct from Greece's Finest Olive Groves all the way from Mykonos, Zakynthos, and Serres.
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-8 text-lg">
-              We've partnered directly with one of Greece's most respected olive oil producers, a family operation
-              spanning three generations. Our producer holds FDA, and PDO certifications, ensuring every bottle
+              We've partnered directly with Greeces largest producer of olive oil as well as multiple family owned operations. Our producers hold FDA, and PDO certifications, ensuring every bottle
               meets the highest international standards.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-10">
-              With state-of-the-art facilities and traditional harvesting methods, we guarantee consistent quality,
-              competitive pricing, and reliable supply for importers and distributors worldwide.
+              With state-of-the-art facilities mechanical and traditional harvesting methods, we guarantee consistent quality, competitive pricing, and reliable supply for importers and distributors to the USA.
             </p>
 
             <div className="grid grid-cols-2 gap-6">
