@@ -2,10 +2,10 @@ import Image from "next/image"
 import { Award, ShieldCheck, Factory, Calendar } from "lucide-react"
 
 const credentials = [
-  { icon: ShieldCheck, label: "Organic & PDO Certified" },
+  { icon: ShieldCheck, label: "FDA & PDO Certified" },
   { icon: Award, label: "Award-Winning Quality" },
   { icon: Factory, label: "Large Production Capacity" },
-  { icon: Calendar, label: "50+ Years Experience" },
+  { icon: Calendar, label: "30+ Years of Greek Product Experience" },
 ]
 
 export function AboutSection() {
