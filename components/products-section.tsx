@@ -7,24 +7,24 @@ const products = [
     name: "Extra Virgin Olive Oil",
     description: "Cold-pressed, first extraction. Acidity <0.5%. Rich, fruity flavor profile.",
     image: "/chryselia.jpeg",
-    tags: ["Organic Available", "PDO Certified", "FDA Certified"],
+    tags: ["PDO Certified", "FDA Certified"],
   },
   {
     name: "Classic Olive Oil",
-    description: "Certified field rotated cultivation. Acidity <0.3%.",
+    description: "Certified field rotated cultivation.",
     image: "/chryselia_classic.jpg",
-    tags: ["Clean Taste", "Great for Cooking"],
+    tags: ["Clean Taste", "Great for Cooking", "FDA Certified"],
   },
   {
     name: "Zeta-Theta",
-    description: "Flexible packaging options. Custom branding.",
-    image: "/bulk-olive-oil-stainless-steel-containers-industri.jpg",
-    tags: ["Custom Packaging", "White Label", "Health Supplement", "Polyphenols"],
+    description: "Flexible packaging options. Custom branding. Acidity <.2%",
+    image: "/zeta-theta.jpg",
+    tags: ["Custom Packaging", "Award Winning", "Health Supplement", "Polyphenols"],
   },
 ]
 
 const specifications = [
-  { label: "Acidity Levels", value: "0.2% - 0.5%" },
+  { label: "Acidity Levels", value: "<0.5%" },
   { label: "Harvest Method", value: "Mechanical" },
   { label: "Storage", value: "Controlled" },
   { label: "Packaging", value: "500ml - 5L & Bulk" },
